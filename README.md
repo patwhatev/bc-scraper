@@ -1,7 +1,10 @@
-Sk8List
+BC-scraper
 =======
 
-A bot that allows users to automate skate video soundrack playlists by a variety of filters. 
+A bot that:
+- reads site assets from sqsp and moves them to a local dir
+- automates the file renaming/resizing for assets 
+- parses text/image files and hopefully automates the upload process into bigcommerce
 
 You'll need the following dependencies/packages:
 
